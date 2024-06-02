@@ -47,19 +47,19 @@
 ---
    ```
       commit 3fee8423885caaa11600132775bd66e3ad0d928d (HEAD -> main, origin/main, origin/HEAD)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:22:15 2024 +0300
 
     Hello_world and name
 
       commit 339edaec1add74a16d1386553a03e74d44aa51fa
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:20:53 2024 +0300
 
     Create_Hello_world
 
       commit ffbe10a298e1ab9690d113dce612d79352e00b8f
-      Author: _Twent <76701971+z1qnezt@users.noreply.github.com>
+      Author: IvanSimankov <76701971+IvanSimankov@users.noreply.github.com>
       Date:   Mon Apr 1 16:19:34 2024 +0300
 
     Initial commit
@@ -120,31 +120,31 @@
 ---
    ```
       commit 8df45162f894f927dca112aba891663e56e69f95 (HEAD -> patch1, origin/patch1)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:26:54 2024 +0300
 
     HelloWorld addComments
 
       commit 185045b0c4ad75c3e81343838577931964dcaa00
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:24:59 2024 +0300
 
     HelloWorld edited
 
       commit 3fee8423885caaa11600132775bd66e3ad0d928d (origin/main, origin/HEAD, main)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:22:15 2024 +0300
 
     Hello_world and name
 
       commit 339edaec1add74a16d1386553a03e74d44aa51fa
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: IvanSimankov <simankov2006@gmail.com>
       Date:   Mon Apr 1 16:20:53 2024 +0300
 
     Create_Hello_world
     
       commit ffbe10a298e1ab9690d113dce612d79352e00b8f
-      Author: _Twent <76701971+z1qnezt@users.noreply.github.com>
+      Author: IvanSimankov <76701971+IvanSimankov@users.noreply.github.com>
       Date:   Mon Apr 1 16:19:34 2024 +0300
 
     Initial commit
@@ -236,7 +236,7 @@ Successfully rebased and updated refs/heads/patch2.
    Writing objects: 100% (4/4), 2.70 KiB | 2.70 MiB/s, done.
    Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
    remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-   To https://github.com/z1qnezt/lab02.git
+   To https://github.com/IvanSimankov/lab02.git
     + 3fee842...99a2c79 patch2 -> patch2 (forced update)
    ```
 ---
